@@ -1,0 +1,92 @@
+h1{
+	text-align: center;
+	color: rgb(255, 255, 255);
+	font-family: Courier;
+	font-size: 100px;
+	color: #CAD2C5;
+}
+body {
+	background-color: #192424;
+}
+ul{
+list-style: none;
+text-align: center;
+}
+li {
+	display: inline-block;
+}
+.meniu a{
+ 	display: block;
+  	font-family: sans-serif;
+ 	color: #f2f2f2;
+	text-align: center;
+  	padding-left: 10px;
+  	text-decoration: none;
+  	text-align: center;
+  	margin-top: 10px;
+  	text-align: center;
+  	font-size: 50px;
+  	color: #CAD2C5;
+  	padding-right: 10px;
+  	margin-right: 10px;
+}
+.meniu a:hover{
+	border-radius: 20px;
+  	background: #73AD21;
+
+}
+.antet img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 50px;
+	width: 1000px;
+	height: 700px;
+	margin-bottom: -8px;
+}
+hr {
+	height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px;
+    background-color: #84A98C;
+}
+.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 500px;
+}
+.gallery:hover {
+  border: 1px solid #777;
+}
+
+.gallery img {
+  width: 100%;
+  height: 500px;
+}
+.Locatie p{
+	text-align: center;
+}
+.flexbox1 {
+	padding: 0px;
+	display: block;
+	width: 800px;
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 7px solid #84A98C;
+	background-color: #47ED31;
+	color: #f2f2f2;
+}
+.Contact h3{
+	padding: 0px;
+	margin: 0px;
+	font-size: 30px;
+	margin-left: 10px;
+}
+.Contact p{
+	padding: 0px;
+	font-size: 20px;
+	margin
+	margin-left: 10px;
+}
